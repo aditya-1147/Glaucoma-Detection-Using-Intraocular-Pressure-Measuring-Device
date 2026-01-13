@@ -64,6 +64,5 @@ Feel free to contribute! If you find issues or want to add features, submit a pu
 - Integrate real-time cloud storage ☁️
 - Deploy as a web app for accessibility 🌍
 
-## 📩 Contact
-📧 **Baibhav Sureka** - [GitHub](https://github.com/BaibhavSureka) | [LinkedIn](https://linkedin.com/in/baibhavsureka)
+
 
